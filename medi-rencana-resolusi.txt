@@ -4,3 +4,4 @@ ceritanya ini tuh cuma buat belajar git
 belajar vue
 dan laravel
 lalu python
+belajar react juga
