@@ -1,3 +1,5 @@
 Rencana resolusi
-cuma coba coba untuk belajar tentang github
 ceritanya ini tuh cuma buat belajar git
+belajar angular
+lalu react
+laravel
