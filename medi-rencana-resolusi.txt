@@ -4,3 +4,4 @@ belajar vue
 dan laravel
 lalu python
 belajar react juga
+coba bikin framework js sendiri
