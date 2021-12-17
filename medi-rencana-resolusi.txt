@@ -1,5 +1,6 @@
 Rencana resolusi
 ceritanya ini tuh cuma buat belajar git
-belajar angular
-lalu react
-laravel
+belajar vue
+dan laravel
+lalu python
+belajar react juga
